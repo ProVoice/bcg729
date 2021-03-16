@@ -6,10 +6,10 @@ Uploaders:
  Tzafrir Cohen <tzafrir@debian.org>,
 Build-Depends:
  cmake,
- debhelper-compat (= 13),
+ debhelper-compat (= 12),
  libortp-dev,
  pkg-config,
-Standards-Version: 4.5.1
+Standards-Version: 4.5.0
 Section: libs
 Homepage: https://github.com/BelledonneCommunications/bcg729
 Vcs-Browser: https://salsa.debian.org/pkg-voip-team/bcg729/
